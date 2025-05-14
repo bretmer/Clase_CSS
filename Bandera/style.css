@@ -1,0 +1,23 @@
+.principal{
+    height: 600px;
+    padding-top: 1px;
+    display: flex;
+    justify-content: center;
+}
+.principal article{
+    height: 200px;
+    width: 100px;
+    border: 1px solid #000;
+}
+.franja-blanco{
+    background-color: white;
+}
+.franja-rojo{
+    background: red;
+}
+.franja-blanco img{
+    width: 100px;
+    height: 100px;
+    padding-top: 35px;
+}
+
